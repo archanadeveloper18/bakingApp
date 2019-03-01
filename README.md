@@ -87,4 +87,4 @@ Widget displays ingredient list for desired recipe.
 
 
 ## Sample Mocks
-Here are some sample mocks that you can refer to as you build your app. Make sure your app functions properly on tablet devices as well as phones. (PDF version)
+Here are some sample mocks that you can refer to as you build your app. Make sure your app functions properly on tablet devices as well as phones. (https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58dee986_bakingapp-mocks/bakingapp-mocks.pdf)
