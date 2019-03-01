@@ -84,3 +84,7 @@ Widget displays ingredient list for desired recipe.
 ![bk3](https://user-images.githubusercontent.com/45606322/53662010-0bbb7c80-3c1f-11e9-9c74-ec32ef0af6b9.png)
 
 ![bk4](https://user-images.githubusercontent.com/45606322/53662017-10803080-3c1f-11e9-82e2-e2f67a3d7bb9.png)
+
+
+## Sample Mocks
+Here are some sample mocks that you can refer to as you build your app. Make sure your app functions properly on tablet devices as well as phones. (PDF version)
