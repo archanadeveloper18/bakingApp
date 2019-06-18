@@ -10,10 +10,15 @@ UI testing with Espresso
 
 # Libraries
 Exoplayer
+
 Butterknife
+
 Retrofit
+
 GSON
+
 Picasso
+
 Support design libraries
 
 
