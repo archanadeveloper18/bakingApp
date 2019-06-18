@@ -8,6 +8,14 @@ Adding home screen widgets
 
 UI testing with Espresso
 
+# Libraries
+Exoplayer
+Butterknife
+Retrofit
+GSON
+Picasso
+Support design libraries
+
 
 ![bk1](https://user-images.githubusercontent.com/45606322/53661994-fe9e8d80-3c1e-11e9-87de-ab0baf5ad9e5.png)
 
